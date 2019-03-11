@@ -13,8 +13,8 @@ public class ConNguoi {
 
     void inThongTin() {
         System.out.println("Ten: " + ten);
-        System.out.println("Tuoi: " + tuoi);
-        System.out.println("Gioi Tinh: " + (gioiTinh ? "Nam" : "Nu"));
+        System.out.println("Tuoi:" + tuoi);
+        System.out.println("gioiTinh: " + (gioiTinh ? "Nam" : "Nu"));
         System.out.println("Dia Chi: " + diaChi);
     }
 }
